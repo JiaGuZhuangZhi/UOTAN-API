@@ -100,7 +100,7 @@ CREATE TABLE xf_app_tokens (
 
 ### 正常请求 API
 
-![正常请求](\src\鉴权\正常请求.png)
+![正常请求](./src/鉴权/正常请求.png)
 
 ### 刷新 Token
 
@@ -112,7 +112,7 @@ CREATE TABLE xf_app_tokens (
 |:---:|:---:|:---:|
 |refresh_token|String|Refresh Token|
 
-![刷新 Token](<\src\鉴权\刷新 Token.png>)
+![刷新 Token](<./src/鉴权/刷新 Token.png>)
 
 ## 强制登出场景
 
